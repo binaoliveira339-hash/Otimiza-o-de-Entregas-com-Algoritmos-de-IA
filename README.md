@@ -73,7 +73,7 @@ Esses algoritmos simulam como empresas reais de logística planejam rotas e redu
 - Kardinal.ai – *Fresh Product Delivery Case Study*  
 
 ---
-# *Link Vídeo Youtube* 
+# *Link Vídeo Youtube:* 
 https://youtu.be/UFgGCdT5WuE
 
  **Projeto desenvolvido com base em fundamentos de Inteligência Artificial**, aplicando algoritmos de busca e aprendizado não supervisionado para resolver um problema prático de logística urbana.
